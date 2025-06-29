@@ -1,9 +1,14 @@
----
 layout: page
 title: About
-permalink: /about
+permalink: /about/
 ---
 
-# Portfolio Jekyll Theme
+# About Me
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+👤 **Name**: Muhammad Abir Ahmed Noor  
+📍 **Location**: London, UK  
+🎓 **Education**: BSc Geography and Economics, London School of Economics  
+💼 **Industry**: Insurance & Data Analytics  
+📊 **Recent Projects**: Created Power BI dashboards and SQL-based automation for bordereau and claims analysis  
+🎯 **Goals**: To transform underwriting processes using data science and intelligent automation  
+🕋 **Interests**: Islamic studies, technology, gym, and cars
